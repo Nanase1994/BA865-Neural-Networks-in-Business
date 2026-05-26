@@ -1,0 +1,26 @@
+id,model_text,actual_class,predicted_class,predicted_probability,truth_mean,truth_median
+837011113518710784,Quarter-million-pound mouse delays British Airways California flight,clickbait,no-clickbait,0.011125666,0.6666666666600001,1.0
+824153564356509696,Economic Scene: Mexico’s Potential Weapons if Trump Declares War on Nafta,clickbait,no-clickbait,0.011345194,0.59999999998,0.6666666666
+824425784404221952,Catholic Church is 'full of s**t' declares Philippines president Duterte,clickbait,no-clickbait,0.011709114,0.53333333328,0.6666666666
+850079699401355264,"Capitol Hill Source: Intel Chair Nunes Temporarily Stepped Down from Russia Probe to Keep Focus on Russia, Unmasking Scandal",clickbait,no-clickbait,0.011937625,0.6666666666600001,1.0
+839880996552073218,"Samsung heir denies charges as ""trial of the century"" begins",clickbait,no-clickbait,0.012484429,0.46666666662,0.6666666666
+807649598865047552,"Improve smartphone voice recognition? There’s a $10,000 prize for that. Design a delivery drone? $50,000.",clickbait,no-clickbait,0.013290003,0.59999999998,0.6666666666
+826884091589046273,Julio Jones ... Cam Newton ... Adrian Peterson ... Not all 5-star recruits work out. These 20 did. Let's rank 'em:,clickbait,no-clickbait,0.013822611,0.66666666664,0.6666666666
+828848266292846593,"Mixed message: 84 Lumber's Super Bowl ad spurs outrage, confusion via @brookefoxnews",clickbait,no-clickbait,0.015078788,0.5333333333,0.6666666666
+852152392204394496,Crackdown: AG Sessions Vows ‘New Era’ at Southern Border,clickbait,no-clickbait,0.015376824,0.9333333333199999,1.0
+851869238713344002,Crackdown: AG Sessions Vows ‘New Era’ at Southern Border,clickbait,no-clickbait,0.015376824,0.8666666666600001,1.0
+811533943644311552,10-year-old autistic girl singing 'Hallelujah' will give you goosebumps,clickbait,no-clickbait,0.017271388,0.66666666666,1.0
+831118229057609729,CeeLo Green to Joy Villa: 10 of the strangest Grammy Awards outfits,clickbait,no-clickbait,0.019556498,0.59999999998,0.6666666666
+842261406233829376,Old glamour shot of Kellyanne Conway surfaces via @YahooStyle,clickbait,no-clickbait,0.01966368,0.46666666661999995,0.6666666666
+825618637285318660,.@realDonaldTrump's #MuslimBan leaves residents feeling like 'prisoners' in the United States,clickbait,no-clickbait,0.020810558,0.39999999996,0.6666666666
+817773598924570624,See inside the $5.5 million mansion Ivanka Trump and Jared Kushner will reportedly move into,clickbait,no-clickbait,0.021378763,0.5333333333,0.6666666666
+831011930491994112,"Is Jay Z taking shots at Drake on ""Shining""?",clickbait,no-clickbait,0.022193525,0.5999999999799999,0.6666666666
+813452824432414720,37 films to look forward to in 2017,clickbait,no-clickbait,0.022440441,0.7333333332999998,0.6666666666
+849286655336992768,Meadows: Freedom Caucus Intrigued at Healthcare Offer After Hill Meeting with Pence,clickbait,no-clickbait,0.022900565,0.8,1.0
+810187810258849792,Nightclub responds brilliantly to a woman's racist rant,clickbait,no-clickbait,0.023231553,1.0,1.0
+807620796713750528,Trump defense secretary pick received emails from woman in Petraeus case,clickbait,no-clickbait,0.023316566,0.46666666662,0.6666666666
+855572404688609280,"Attorney in rape case says women are good at lying ""because they're the weaker sex.""",clickbait,no-clickbait,0.023519928,0.5333333333,0.6666666666
+828251851866927105,LaDanian Tomlinson headlines the 2017 NFL Hall of Fame class. Who else made the cut?,clickbait,no-clickbait,0.023665017,0.53333333332,0.6666666666
+825787190508716032,Airbnb offers to ease ban,clickbait,no-clickbait,0.024641706,0.73333333332,1.0
+851520363406217216,Swedish Police Chief Shut Down By Interior Minister After Call to Deport Terror Suspects,clickbait,no-clickbait,0.025862651,0.8,1.0
+842152426874494978,Watch Spice Girl Emma Bunton prank British Airways customers for #RedNoseDay 2017,clickbait,no-clickbait,0.02738029,0.5333333333,0.6666666666

@@ -1,0 +1,5 @@
+predicted_clickbait_probability,risk_level,possible_action
+0.00 - 0.30,Low,No action; normal ranking
+0.30 - 0.60,Moderate,Monitor or lightly reduce ranking weight
+0.60 - 0.80,High,Flag for editorial review or reduce ranking weight
+0.80 - 1.00,Very high,Prioritize for review; consider stronger ranking penalty
